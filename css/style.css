@@ -8,8 +8,6 @@ body {
     margin: 40px auto 60px; 
 }
 
-.clear { clear: both; }
-
 h1 { 
     margin: 0 0 16px 0; 
     padding: 0 0 16px 0; 
@@ -57,13 +55,9 @@ ul { margin: 0 0 32px 0px; }
 
 ul li { font-size: 16px; }
 
-.author {
-    height: 250px;
-}
+.author { height: 250px; }
 
-.contact-info {
-    float:left;
-}
+.contact-info { float:left; }
 
 .objective { 
     width: 500px; 
@@ -92,6 +86,8 @@ dd {
     width: 600px; 
     float: right;
 }
+
+.clear { clear: both; }
 
 dd.clear { 
     float: none;
